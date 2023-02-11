@@ -1,9 +1,9 @@
 # Lyriks
 This is a spotify like music player where you can 
 -> search songs
--> view top charts song
+-> view top charts songs
 -> top artists
--> song trending around you
+-> songs trending around you
 -> artists details with their related songs
 -> song details with lyrics and related songs
 
