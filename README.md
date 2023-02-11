@@ -1,5 +1,5 @@
 # Lyriks
-This is a spotify like music player where you can
+This is a spotify like music player where you can 
 -> search songs
 -> view top charts song
 -> top artists
